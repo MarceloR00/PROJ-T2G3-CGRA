@@ -130,7 +130,7 @@ class MyCubeMap extends CGFobject {
         this.skyBoxTop.setDiffuse(0, 0, 0, 1);
         this.skyBoxTop.setSpecular(0, 0, 0, 1);
         this.skyBoxTop.setShininess(10.0);
-        this.skyBoxTop.loadTexture('images/split_cubemap/cubemapTop.png');
+        this.skyBoxTop.loadTexture('images/split_cubemap/cubemapTop.jpg');
         this.skyBoxTop.setTextureWrap('REPEAT', 'REPEAT');
     }
 
