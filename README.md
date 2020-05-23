@@ -1,1 +1,0 @@
-# Versão online da aplicação
